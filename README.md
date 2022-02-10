@@ -7,6 +7,10 @@ Import labels from one GitHub repository into another.
 * Composer
 * PHP ^8.1
 
+## Installation
+
+`composer require totallyquiche/github-label-importer`
+
 ## Usage
 
 ```php
