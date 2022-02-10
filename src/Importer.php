@@ -17,7 +17,7 @@ final class Importer
         string $user_or_organization_name,
         string $origin_repository_name,
         string $destination_repository_name,
-        bool $should_update_destination_label_colors = false,
+        bool $should_update_destination_label_colors = true,
         bool $should_delete_destination_labels = false
     )
     {
