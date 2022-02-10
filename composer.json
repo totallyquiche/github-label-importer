@@ -1,6 +1,7 @@
 {
     "name": "totallyquiche/github-label-importer",
     "description": "Import labels from one GitHub repo into another",
+    "license": "MIT",
     "require": {
         "php": "^8.1",
         "knplabs/github-api": "^3.0",
