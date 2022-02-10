@@ -47,7 +47,7 @@ final class Importer
 
         if (!is_null($github_access_token)) {
             $client->authenticate(
-                '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',
+                $github_access_token,
                 null,
                 AuthMethod::ACCESS_TOKEN
             );
