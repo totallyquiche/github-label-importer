@@ -2,6 +2,11 @@
 
 Import labels from one GitHub repository into another.
 
+## Requirements
+
+* Composer
+* PHP ^8.1
+
 ## Usage
 
 ```php
